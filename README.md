@@ -1,2 +1,3 @@
 # Dice-Game!
-[Screenshot](https://user-images.githubusercontent.com/70009406/125284860-9c4e0f80-e337-11eb-8ace-18d2c94c8044.png)
+![Screenshot (510)](https://user-images.githubusercontent.com/70009406/125285716-9147af00-e338-11eb-8365-a54152f8e9f5.png)
+
